@@ -1,0 +1,6 @@
+com\gaurabe\jpa\demo\service\UserService.class
+com\gaurabe\jpa\demo\model\User.class
+com\gaurabe\jpa\demo\config\SwaggerConfig.class
+com\gaurabe\jpa\demo\controller\JpaController.class
+com\gaurabe\jpa\demo\Application.class
+com\gaurabe\jpa\demo\dao\UserRepository.class
